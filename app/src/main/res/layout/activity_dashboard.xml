@@ -39,7 +39,7 @@
                     android:layout_margin="3dp"
                     android:text="one way"
                     android:textColor="@color/WHITE"/>
-            <Button android:layout_width="0.0dp"
+            <Button android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:background="@drawable/round_corner"
