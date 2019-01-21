@@ -32,7 +32,7 @@
                       android:orientation="horizontal"
                       android:background="@drawable/round_corner_1"
         >
-            <Button android:layout_width="0.0dp"
+            <Button android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:background="@drawable/round_corner"
